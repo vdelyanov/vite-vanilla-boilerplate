@@ -1,0 +1,23 @@
+// Custom scrollbar 
+
+body::-webkit-scrollbar {
+    width: 0px; 
+    background-color: transparent;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: $black;  
+    &:hover {
+        background-color: $white 
+    }
+}
+
+::-webkit-scrollbar {
+    height: 0px; 
+    background-color: transparent;
+}
+
+::-webkit-scrollbar {
+    height: 0px; 
+    background-color: transparent;
+}
