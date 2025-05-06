@@ -12,6 +12,4 @@ gsap.registerPlugin(ScrollTrigger, SplitText);
 
 document.addEventListener('DOMContentLoaded', () => {
  
-  alert('kur')
-
 })
